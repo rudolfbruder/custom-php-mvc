@@ -1,0 +1,18 @@
+/* might be copied back to index for some reason */
+* {
+   min-height: 0.01px;
+}
+
+#coockiemarker{
+	background-color: gray;
+	display:none;
+}
+
+#messagetext {
+	min-height: 180px;
+	resize: none;
+}
+
+.result {
+	color: green;
+}

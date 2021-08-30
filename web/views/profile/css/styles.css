@@ -1,0 +1,15 @@
+@media (max-width:768px){
+    .hide-md{
+        display:none
+    }
+}
+
+@media (min-width:992px){
+    .hide-md{
+        display:block
+    }
+    .hide-sm{
+    	display:none
+    }
+}
+

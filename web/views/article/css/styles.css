@@ -1,0 +1,17 @@
+.note-btn-primary{
+  background-color:#28a745!important;
+  border-color:#28a745!important;
+}
+
+.bigButton{
+	min-width: 130px;
+}
+
+.shortTextArea{
+	min-height: 60px;
+	resize: none;
+}
+
+.green{
+	color:#28a745!important;
+}
